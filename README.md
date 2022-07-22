@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rohith-reddy-chityala/">
@@ -28,3 +28,12 @@ I am a Data Science Graduate, <img src="https://media.giphy.com/media/WUlplcMpOC
 - :zap: My hobbies include reading books and doodling.
 
 - :inbox_tray: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-reddy-chityala/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
